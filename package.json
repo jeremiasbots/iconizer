@@ -1,7 +1,8 @@
 {
   "name": "iconizer",
-  "module": "index.ts",
+  "module": "convert.ts",
   "type": "module",
+  "bin": "convert.ts",
   "license": "BSD-3-Clause",
   "author": "@victorrbravo/@jeremiasbots",
   "devDependencies": {
